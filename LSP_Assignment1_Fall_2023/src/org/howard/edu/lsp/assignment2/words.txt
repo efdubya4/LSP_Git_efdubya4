@@ -1,0 +1,5 @@
+This assignment gives you some experience with, and insight into, how some of the ideas covered in this course apply in more “real-world” settings. In particular, this exercise gives you a problem to solve, but leaves you to use your own judgement about the algorithms or data structures to use — much as a professional software developer relies on their own judgement. 
+
+While the amount of code you need to write for this exercise isn’t large, you do have to decide where you can use existing classes, where you need to adapt those classes to the particular problem at hand, and where you have to write code from scratch — again, very much the decisions a modern software developer must make in planning a project.
+
+In this assignment, you will need to design and code a program that reads a text file, and counts the number of times each word that it contains appears. For example, if the file contained the first line of this paragraph (“Design and code a program that reads a text file, and counts the number of times each word that it contains appears 100”), the program’s output might look something like this:
