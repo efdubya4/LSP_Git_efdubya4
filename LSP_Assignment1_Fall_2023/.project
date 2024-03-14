@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>LSP_Assignment1_Fall_2023</name>
+	<name>LSP_Assignments_Spring_2024</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,4 +14,16 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/org/howard/edu/lsp/midterm/midterm-spring-2024-part1.doc</name>
+			<type>1</type>
+			<location>/Users/fosterwareiv/Downloads/midterm-spring-2024-part1.doc</location>
+		</link>
+		<link>
+			<name>src/org/howard/edu/lsp/exam/document/final_fall_2023-2.docx</name>
+			<type>1</type>
+			<location>/Users/fosterwareiv/Downloads/final_fall_2023-2.docx</location>
+		</link>
+	</linkedResources>
 </projectDescription>
