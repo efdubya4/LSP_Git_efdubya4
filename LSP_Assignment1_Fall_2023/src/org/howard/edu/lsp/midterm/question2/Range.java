@@ -1,5 +1,5 @@
 package org.howard.edu.lsp.midterm.question2;
 
-public class Class2 {
+public interface Range {
 
 }
